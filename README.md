@@ -53,6 +53,8 @@ saudi-data_job-market/
 - Bar Chart: Top 10 job titles
 - Map: Distribution of job postings across cities
 
+> 🔍 **Note on Salary Data**:  
+> Salary information was largely unavailable for job postings in Saudi Arabia. This reflects a regional trend where employers often omit compensation details from public listings, which limited the ability to include salary-based insights in this analysis.
 
 
 ## 🧠 SQL Logic Summary
